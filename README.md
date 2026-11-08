@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Trisha! ❦
+I'm currently a third-year CS student at McMaster University, passionate about technology that connects people together, fosters curiosity/learning, and is generally fun! 
+
+I'm always looking to take on new challenges and push myself out of my comfort zone, in pursuit of growth. Here are some things I'm learning right now: 
+- React
+- Swift and SwiftUI
+- REST API Design and Usage
+
+I'm still figuring things out, but I hope you'll stick around for the ride. If you'd like to stay connected, please feel free to reach out on [Linkedin](https://linkedin.com/in/trishaganeshratnam). 
+
+---
 
 <!--
 **trishawesome/trishawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
